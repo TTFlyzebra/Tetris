@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\AndroidPro\\Tetris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidPro\\Tetris\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidPro\\Tetris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidPro\\Tetris\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidPro\\Tetris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button02.png.flat",
+        "source": "D:\\AndroidPro\\Tetris\\app\\src\\main\\res\\drawable-hdpi\\button02.png"
+    },
+    {
+        "merged": "D:\\AndroidPro\\Tetris\\app\\build\\intermediates\\res\\merged\\debug\\raw_loop_02.ogg.flat",
+        "source": "D:\\AndroidPro\\Tetris\\app\\src\\main\\res\\raw\\loop_02.ogg"
+    },
+    {
+        "merged": "D:\\AndroidPro\\Tetris\\app\\build\\intermediates\\res\\merged\\debug\\raw_once_03.ogg.flat",
+        "source": "D:\\AndroidPro\\Tetris\\app\\src\\main\\res\\raw\\once_03.ogg"
+    },
+    {
+        "merged": "D:\\AndroidPro\\Tetris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidPro\\Tetris\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidPro\\Tetris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button01.png.flat",
+        "source": "D:\\AndroidPro\\Tetris\\app\\src\\main\\res\\drawable-hdpi\\button01.png"
+    },
+    {
+        "merged": "D:\\AndroidPro\\Tetris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidPro\\Tetris\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidPro\\Tetris\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\AndroidPro\\Tetris\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\AndroidPro\\Tetris\\app\\build\\intermediates\\res\\merged\\debug\\raw_once_01.ogg.flat",
+        "source": "D:\\AndroidPro\\Tetris\\app\\src\\main\\res\\raw\\once_01.ogg"
+    },
+    {
+        "merged": "D:\\AndroidPro\\Tetris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bk_view.jpg.flat",
+        "source": "D:\\AndroidPro\\Tetris\\app\\src\\main\\res\\drawable-hdpi\\bk_view.jpg"
+    }
+]
